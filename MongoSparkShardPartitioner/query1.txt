@@ -1,0 +1,1 @@
+{ "$or" : [{ "$and" : [{ "subClassId" : { "$eq" : "15" } }, { "classId" : { "$eq" : "85" } }, { "departmentId" : { "$eq" : "72" } }, { "divisionId" : { "$eq" : "77" } }] }, { "$and" : [{ "subClassId" : { "$eq" : "52" } }, { "classId" : { "$eq" : "59" } }, { "departmentId" : { "$eq" : "42" } }, { "divisionId" : { "$eq" : "50" } }] }] }
